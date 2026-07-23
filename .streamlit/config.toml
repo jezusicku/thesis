@@ -1,0 +1,8 @@
+
+[server]
+# Automatyczne uruchomienie skryptu po zapisie pliku (gorący reload).
+runOnSave = true
+
+[runner]
+# Szybsze ponowne uruchomienia przy małych zmianach.
+fastReruns = true

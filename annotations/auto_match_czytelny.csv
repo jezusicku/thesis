@@ -1,0 +1,43 @@
+label_clean,wikidata_url,chosen_qid,chosen_label,method_id,score,accepted,person_uri,timestamp
+Adam Jaworski,https://www.wikidata.org/wiki/Q100153255,Q100153255,Adam Jaworski,heuristic_rules,20.4,False,http://example.org/ontology#adam_jaworski_syn_marcina,2026-05-29T15:06:25.166807+00:00
+Adam Jaworski,https://www.wikidata.org/wiki/Q100153255,Q100153255,Adam Jaworski,fuzzy_rerank,24.0,False,http://example.org/ontology#adam_jaworski_syn_marcina,2026-05-29T15:07:02.389150+00:00
+Adam Jaworski,https://www.wikidata.org/wiki/Q100153255,Q100153255,Adam Jaworski,phonetic_rerank,24.0,False,http://example.org/ontology#adam_jaworski_syn_marcina,2026-05-29T15:07:04.057046+00:00
+Adam Kownacki,https://www.wikidata.org/wiki/Q19745920,Q19745920,Adam Kownacki,heuristic_rules,24.0,False,http://example.org/ontology#adam_ojciec_antoni_kownacki,2026-05-29T15:07:14.101927+00:00
+Adam Kownacki,https://www.wikidata.org/wiki/Q19745920,Q19745920,Adam Kownacki,fuzzy_rerank,24.0,False,http://example.org/ontology#adam_ojciec_antoni_kownacki,2026-05-29T15:07:15.739989+00:00
+Adam Kownacki,https://www.wikidata.org/wiki/Q19745920,Q19745920,Adam Kownacki,phonetic_rerank,24.0,False,http://example.org/ontology#adam_ojciec_antoni_kownacki,2026-05-29T15:08:02.203491+00:00
+Adam Ochocki,https://www.wikidata.org/wiki/Q9140084,Q9140084,Adam Ochocki,heuristic_rules,24.0,False,http://example.org/ontology#adam_ojciec_antoni_ochocki,2026-05-29T15:08:03.945550+00:00
+Adam Ochocki,https://www.wikidata.org/wiki/Q9140084,Q9140084,Adam Ochocki,fuzzy_rerank,24.0,False,http://example.org/ontology#adam_ojciec_antoni_ochocki,2026-05-29T15:08:05.572478+00:00
+Adam Ochocki,https://www.wikidata.org/wiki/Q9140084,Q9140084,Adam Ochocki,phonetic_rerank,24.0,False,http://example.org/ontology#adam_ojciec_antoni_ochocki,2026-05-29T15:08:06.961684+00:00
+Adam Białkowski,https://www.wikidata.org/wiki/Q123257542,Q123257542,Adam Białkowski,heuristic_rules,24.0,False,http://example.org/ontology#adam_ojciec_piotr_białkowski,2026-05-29T15:10:05.208960+00:00
+Adam Białkowski,https://www.wikidata.org/wiki/Q123257542,Q123257542,Adam Białkowski,fuzzy_rerank,24.0,False,http://example.org/ontology#adam_ojciec_piotr_białkowski,2026-05-29T15:10:07.079796+00:00
+Adam Białkowski,https://www.wikidata.org/wiki/Q123257542,Q123257542,Adam Białkowski,phonetic_rerank,24.0,False,http://example.org/ontology#adam_ojciec_piotr_białkowski,2026-05-29T15:10:08.434000+00:00
+Adam Kownacki,https://www.wikidata.org/wiki/Q19745920,Q19745920,Adam Kownacki,heuristic_rules,24.0,False,http://example.org/ontology#adam_ojciec_stanisław_kownacki,2026-05-29T15:46:02.121067+00:00
+Adam Kownacki,https://www.wikidata.org/wiki/Q19745920,Q19745920,Adam Kownacki,fuzzy_rerank,24.0,False,http://example.org/ontology#adam_ojciec_stanisław_kownacki,2026-05-29T15:46:03.952507+00:00
+Adam Kownacki,https://www.wikidata.org/wiki/Q19745920,Q19745920,Adam Kownacki,phonetic_rerank,24.0,False,http://example.org/ontology#adam_ojciec_stanisław_kownacki,2026-05-29T15:46:05.319824+00:00
+Albert,https://www.wikidata.org/wiki/Q577011,Q577011,Albert,heuristic_rules,14.0,False,http://example.org/ontology#albert_z_slankamen_syn_dominika,2026-05-29T15:48:03.432222+00:00
+Albert,https://www.wikidata.org/wiki/Q10729205,Q10729205,Albert,fuzzy_rerank,14.0,False,http://example.org/ontology#albert_z_slankamen_syn_dominika,2026-05-29T15:48:05.477058+00:00
+Albert,https://www.wikidata.org/wiki/Q10729205,Q10729205,Albert,phonetic_rerank,14.0,False,http://example.org/ontology#albert_z_slankamen_syn_dominika,2026-05-29T15:48:07.881604+00:00
+Aleksander Lisowski,https://www.wikidata.org/wiki/Q2471132,Q2471132,Aleksander Józef Lisowski,heuristic_rules,24.0,False,http://example.org/ontology#aleksander_ojciec_antoni_lisowski_syn_aleksandra,2026-05-29T16:46:03.276090+00:00
+Aleksander Lisowski,https://www.wikidata.org/wiki/Q2471132,Q2471132,Aleksander Józef Lisowski,fuzzy_rerank,24.0,False,http://example.org/ontology#aleksander_ojciec_antoni_lisowski_syn_aleksandra,2026-05-29T16:46:05.245630+00:00
+Aleksander Lisowski,https://www.wikidata.org/wiki/Q56940869,Q56940869,Aleksander Lisowski,phonetic_rerank,24.0,False,http://example.org/ontology#aleksander_ojciec_antoni_lisowski_syn_aleksandra,2026-05-29T16:46:06.611117+00:00
+Aleksander Karczewski,https://www.wikidata.org/wiki/Q9145553,Q9145553,Aleksander Karczewski,heuristic_rules,24.0,False,http://example.org/ontology#aleksander_ojciec_jan_karczewski_syn_aleksandra,2026-05-29T16:48:10.465725+00:00
+Aleksander Karczewski,https://www.wikidata.org/wiki/Q9145553,Q9145553,Aleksander Karczewski,fuzzy_rerank,24.0,False,http://example.org/ontology#aleksander_ojciec_jan_karczewski_syn_aleksandra,2026-05-29T16:48:12.784155+00:00
+Aleksander Karczewski,https://www.wikidata.org/wiki/Q9145553,Q9145553,Aleksander Karczewski,phonetic_rerank,24.0,False,http://example.org/ontology#aleksander_ojciec_jan_karczewski_syn_aleksandra,2026-05-29T16:48:14.161283+00:00
+Andrzej Bobrowski,https://www.wikidata.org/wiki/Q110621163,Q110621163,Andrzej Bobrowski,heuristic_rules,24.0,False,http://example.org/ontology#andrzej_bobrowski,2026-05-29T16:51:12.791045+00:00
+Andrzej Bobrowski,https://www.wikidata.org/wiki/Q110621163,Q110621163,Andrzej Bobrowski,fuzzy_rerank,24.0,False,http://example.org/ontology#andrzej_bobrowski,2026-05-29T16:51:14.963848+00:00
+Andrzej Bobrowski,https://www.wikidata.org/wiki/Q110621163,Q110621163,Andrzej Bobrowski,phonetic_rerank,24.0,False,http://example.org/ontology#andrzej_bobrowski,2026-05-29T16:52:01.477344+00:00
+Andrzej Frycz Modrzewski,https://www.wikidata.org/wiki/Q728305,Q728305,Andrzej Frycz Modrzewski,heuristic_rules,81.0,True,http://example.org/ontology#andrzej_frycz_modrzewski_z_wolborza,2026-05-29T16:52:12.059104+00:00
+Andrzej Frycz Modrzewski,https://www.wikidata.org/wiki/Q728305,Q728305,Andrzej Frycz Modrzewski,fuzzy_rerank,81.0,True,http://example.org/ontology#andrzej_frycz_modrzewski_z_wolborza,2026-05-29T16:52:14.451746+00:00
+Andrzej Frycz Modrzewski,https://www.wikidata.org/wiki/Q728305,Q728305,Andrzej Frycz Modrzewski,phonetic_rerank,81.0,True,http://example.org/ontology#andrzej_frycz_modrzewski_z_wolborza,2026-05-29T16:52:16.934445+00:00
+Andrzej Janowski,https://www.wikidata.org/wiki/Q89596056,Q89596056,Andrzej Janowski,heuristic_rules,10.4,False,http://example.org/ontology#andrzej_janowski,2026-05-29T16:53:06.005460+00:00
+Andrzej Janowski,https://www.wikidata.org/wiki/Q89596056,Q89596056,Andrzej Janowski,fuzzy_rerank,12.8,False,http://example.org/ontology#andrzej_janowski,2026-05-29T16:53:07.997536+00:00
+Andrzej Janowski,https://www.wikidata.org/wiki/Q89596056,Q89596056,Andrzej Janowski,phonetic_rerank,12.8,False,http://example.org/ontology#andrzej_janowski,2026-05-29T16:53:10.019635+00:00
+Andrzej Karnicki,https://www.wikidata.org/wiki/Q97006978,Q97006978,Andrzej Karnicki,heuristic_rules,24.0,False,http://example.org/ontology#andrzej_karnicki,2026-05-29T16:53:11.763076+00:00
+Andrzej Karnicki,https://www.wikidata.org/wiki/Q97006978,Q97006978,Andrzej Karnicki,fuzzy_rerank,24.0,False,http://example.org/ontology#andrzej_karnicki,2026-05-29T16:53:13.478483+00:00
+Andrzej Karnicki,https://www.wikidata.org/wiki/Q97006978,Q97006978,Andrzej Karnicki,phonetic_rerank,24.0,False,http://example.org/ontology#andrzej_karnicki,2026-05-29T16:53:14.821759+00:00
+Andrzej Kowalewski,https://www.wikidata.org/wiki/Q104434085,Q104434085,Andrzej Kowalewski,heuristic_rules,24.0,False,http://example.org/ontology#andrzej_kowalewski_syn_piotra,2026-05-29T16:55:12.240608+00:00
+Andrzej Kowalewski,https://www.wikidata.org/wiki/Q104434085,Q104434085,Andrzej Kowalewski,fuzzy_rerank,24.0,False,http://example.org/ontology#andrzej_kowalewski_syn_piotra,2026-05-29T16:55:13.898914+00:00
+Andrzej Kowalewski,https://www.wikidata.org/wiki/Q104434085,Q104434085,Andrzej Kowalewski,phonetic_rerank,24.0,False,http://example.org/ontology#andrzej_kowalewski_syn_piotra,2026-05-29T16:55:15.265313+00:00
+Andrzej Maćkiewicz,https://www.wikidata.org/wiki/Q122426906,Q122426906,Andrzej Mackowicz,heuristic_rules,22.8,False,http://example.org/ontology#andrzej_mackiewicz_syn_szymona,2026-05-29T16:56:14.776591+00:00
+Andrzej Maćkiewicz,https://www.wikidata.org/wiki/Q122426906,Q122426906,Andrzej Mackowicz,fuzzy_rerank,22.8,False,http://example.org/ontology#andrzej_mackiewicz_syn_szymona,2026-05-29T16:57:02.551003+00:00
+Andrzej Maćkiewicz,https://www.wikidata.org/wiki/Q122426906,Q122426906,Andrzej Mackowicz,phonetic_rerank,22.8,False,http://example.org/ontology#andrzej_mackiewicz_syn_szymona,2026-05-29T16:57:03.901010+00:00
